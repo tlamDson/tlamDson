@@ -2,7 +2,6 @@
 
 - 🎓 I'm a sophomore at **Dickinson College** with a BS in **Computer Science** and **Mathematics**
 - 🤩 I was a Backend intern at **Pal AI** and **FPT Software**
-- 📫 How to reach me: [phamtunglam110306@gmail.com](mailto:phamtunglam110306@gmail.com)
 
 ---
 
@@ -39,5 +38,4 @@
 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:phamtunglam110306@gmail.com)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lam-pham-1651b82b7/)
-[<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />](YOUR_FACEBOOK_LINK_HERE)
-[<img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" />](YOUR_TIKTOK_LINK_HERE)
+[<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />](https://www.facebook.com/pham.lamtung.33)
