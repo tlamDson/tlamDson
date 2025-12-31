@@ -1,8 +1,9 @@
 # Hey, I'm Lam Pham - currently an aspiring software engineer 👨‍💻
 
 - 🎓 I'm a sophomore at **Dickinson College** with a BS in **Computer Science** and **Mathematics**
-- 🤩 I was a Backend intern at **Pal AI** and **FPT Software**
-- 📫 How to reach me: [phamtunglam110306@gmail.com](mailto:phamtunglam110306@gmail.com)
+- 🐧 I'm currently a Backend intern at **Pal AI** building the backend infrastructure for an **AI-powered assistant** that helps students navigate their **college applications**.
+- 🚀 I'm developing an **Alexa AI** solution at **USTechBridge** using **AWS** to assist visually impaired individuals with managing **doctor appointments**.
+- ☁️ I was a Backend intern at **FPT Software** where I engineered a comprehensive **check workflow system** to streamline **employee management** processes.
 
 <div align="center">
   <a href="https://github.com/tlamDson">
