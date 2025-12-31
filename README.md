@@ -1,7 +1,7 @@
 # Hey, I'm Lam Pham - currently an aspiring software engineer 👨‍💻
 
 - 🎓 I'm a sophomore at **Dickinson College** with a BS in **Computer Science** and **Mathematics**
-- 🤩 I was a Fullstack intern at **Pal AI** and **FPT Software**
+- 🤩 I was a Backend intern at **Pal AI** and **FPT Software**
 - 📫 How to reach me: [phamtunglam110306@gmail.com](mailto:phamtunglam110306@gmail.com)
 
 ---
