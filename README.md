@@ -2,7 +2,10 @@
 
 - 🎓 I'm a sophomore at **Dickinson College** with a BS in **Computer Science** and **Mathematics**
 - 🤩 I was a Backend intern at **Pal AI** and **FPT Software**
-[![Lam Pham's GitHub stats](https://github-readme-stats.vercel.app/api?username=tlamDson&show_icons=true&theme=dark)](https://github.com/tlamDson)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tlamDson&show_icons=true&theme=dark" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tlamDson&layout=compact&theme=dark" height="180" alt="languages graph" />
+</div>
 ---
 
 ### 🛠️ Languages and Tools
