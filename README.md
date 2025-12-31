@@ -6,11 +6,11 @@
 
 <div align="center">
   <a href="https://github.com/tlamDson">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=tlamDson&show_icons=true&theme=dark&v=1" />
+    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tlamDson&show_icons=true&theme=dark" />
   </a>
   
   <a href="https://github.com/tlamDson">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tlamDson&layout=compact&theme=dark&hide=html,css&v=1" />
+    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tlamDson&layout=compact&theme=dark&hide=html,css" />
   </a>
 </div>
 
