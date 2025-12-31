@@ -2,6 +2,7 @@
 
 - 🎓 I'm a sophomore at **Dickinson College** with a BS in **Computer Science** and **Mathematics**
 - 🤩 I was a Backend intern at **Pal AI** and **FPT Software**
+[![Lam Pham's GitHub stats](https://github-readme-stats.vercel.app/api?tlamDson=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -39,3 +40,6 @@
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:phamtunglam110306@gmail.com)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lam-pham-1651b82b7/)
 [<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />](https://www.facebook.com/pham.lamtung.33)
+
+
+
