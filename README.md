@@ -4,9 +4,9 @@ I'm a rising junior at **Dickinson College** pursuing a BS in **Computer Science
 
 - I'm currently a Backend & DevOps intern at **Rainscales**, owning CI/CD pipelines and backend infrastructure for a B2B computer vision platform.
 - I'm conducting research with **Thuy Loi University** on underwater object detection, fine-tuning YOLOv8 with PyTorch for low-visibility computer vision.
-- I was a Backend intern at **Pal AI**, building infrastructure for an AI-powered college application assistant.
-- I was a Software Engineer intern at **USTechBridge**, building a voice-controlled AWS Bedrock backend for doctor appointment management.
-- I was a Backend intern at **FPT Software**, developing a distributed RAG-based workflow automation engine.
+- Former Software Engineer Intern at **Pal AI**, building infrastructure for an AI-powered college application assistant.
+- Former Software Engineer Intern at **USTechBridge**, building a voice-controlled AWS Bedrock backend for doctor appointment management.
+- Former Software Engineer Intern at **FPT Software**, developing a distributed RAG-based workflow automation engine.
 
 ---
 ### 📫 Connect with me
