@@ -5,15 +5,7 @@
 - 🚀 I was a Software Engineer intern at **USTechBridge**, building a voice-controlled AWS Bedrock backend for doctor appointment management.
 - ☁️ I was a Backend intern at **FPT Software**, developing a distributed RAG-based workflow automation engine.
 
-<div align="center">
-  <a href="https://github.com/tlamDson">
-    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tlamDson&show_icons=true&theme=dark" />
-  </a>
-  
-  <a href="https://github.com/tlamDson">
-    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tlamDson&layout=compact&theme=dark&hide=html,css" />
-  </a>
-</div>
+
 
 ---
 ### 🛠️ Languages and Tools
