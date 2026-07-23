@@ -1,4 +1,4 @@
-# Hey, I'm Lam Pham - currently an aspiring software engineer 👨‍💻
+# Hey, I'm Lam Pham.
 
 I'm a rising junior at **Dickinson College** pursuing a BS in **Computer Science** and **Mathematics**, and actively seeking **Backend & DevOps** internship opportunities.
 
